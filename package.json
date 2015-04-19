@@ -1,0 +1,22 @@
+{
+  "name": "hf-raf",
+  "version": "1.0.0",
+  "description": "requestAnimationFrame",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hushicai/hf-raf.git"
+  },
+  "author": "hushicai <bluthcy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hushicai/hf-raf/issues"
+  },
+  "homepage": "https://github.com/hushicai/hf-raf"
+}
